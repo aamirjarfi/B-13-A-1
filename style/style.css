@@ -35,3 +35,15 @@
 }
 
 /* top nav bar ends here  */
+
+/* hero section starts here */
+
+.back_section{     
+    background-image: url("assets/hero-bg.png");
+    width: 100%;
+    height: 200px;
+    
+}
+
+
+
